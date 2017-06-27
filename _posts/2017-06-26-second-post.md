@@ -1,2 +1,2 @@
 blog post #2
-{% capture images %}    https://github.com/priyankjairaj100/Moon/blob/master/images/blogpic.jpg {% endcapture %} {% include gallery images=images caption="Test images" cols=3 %}
+{% capture images %}   https://drive.google.com/open?id=0B3RbaUy6i0dlM3ZpODB4RTNBbWc {% endcapture %} {% include gallery images=images caption="The motion" cols=3 %}
